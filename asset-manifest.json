@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.ee8177f1.js",
-    "static/js/787.bcf54148.chunk.js": "/static/js/787.bcf54148.chunk.js",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.ee8177f1.js.map": "/static/js/main.ee8177f1.js.map",
-    "787.bcf54148.chunk.js.map": "/static/js/787.bcf54148.chunk.js.map"
+    "main.css": "https://github.com/jega98/bootstrap-react-proj1.git/static/css/main.073c9b0a.css",
+    "main.js": "https://github.com/jega98/bootstrap-react-proj1.git/static/js/main.c8ca845a.js",
+    "static/js/787.bcf54148.chunk.js": "https://github.com/jega98/bootstrap-react-proj1.git/static/js/787.bcf54148.chunk.js",
+    "index.html": "https://github.com/jega98/bootstrap-react-proj1.git/index.html",
+    "main.073c9b0a.css.map": "https://github.com/jega98/bootstrap-react-proj1.git/static/css/main.073c9b0a.css.map",
+    "main.c8ca845a.js.map": "https://github.com/jega98/bootstrap-react-proj1.git/static/js/main.c8ca845a.js.map",
+    "787.bcf54148.chunk.js.map": "https://github.com/jega98/bootstrap-react-proj1.git/static/js/787.bcf54148.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ee8177f1.js"
+    "static/js/main.c8ca845a.js"
   ]
 }
